@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlarmsJava</string>
+    <string name="your_alarm_is_ringing">Your Alarm is ringing</string>
+    <string name="schedule_a_task">Schedule a Task</string>
+</resources>
